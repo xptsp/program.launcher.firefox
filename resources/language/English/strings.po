@@ -1,0 +1,98 @@
+# Kodi Media Center language file
+# Addon Name: Kodi Launches FireFox
+# Addon id: script.kodi.launches.firefox
+# Addon Provider: iampeluca <diego.hernandez.perez.cr@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: script.kodi.launches.firefox\n"
+"Report-Msgid-Bugs-To: diego.hernandez.perez.cr@gmail.com\n"
+"POT-Creation-Date: 2017-01-12 23:15-0600\n"
+"PO-Revision-Date: 2018-10-30 09:11-0600\n"
+"Last-Translator: Dominique Tardif <dommtardif@gmail.com>\n"
+"Language-Team: English <diego.hernandez.perez.cr@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);f\n"
+
+
+msgctxt "#32000"
+msgid "Error launching FireFox"
+msgstr ""
+
+
+msgctxt "#32001"
+msgid "The FireFox executable was not found."
+msgstr ""
+
+
+msgctxt "#32002"
+msgid "Please change its location on the Addon-Configure section based on your OS."
+msgstr ""
+
+
+msgctxt "#32003"
+msgid "File not found: "
+msgstr ""
+
+
+msgctxt "#32004"
+msgid "Is FireFox installed?"
+msgstr ""
+
+
+msgctxt "#32005"
+msgid "Please check that FireFox is installed and configured on this system before using this launcher, for instructions and downloads go to http://firefox.org/"
+msgstr ""
+
+
+msgctxt "#32006"
+msgid "General"
+msgstr ""
+
+
+msgctxt "#32007"
+msgid "Windows Executable:"
+msgstr ""
+
+
+msgctxt "#32008"
+msgid "Linux Executable:"
+msgstr ""
+
+
+msgctxt "#32009"
+msgid "Advanced"
+msgstr ""
+
+
+msgctxt "#32010"
+msgid "Turn off Power Saving?"
+msgstr ""
+
+
+msgctxt "#32011"
+msgid "Use workaround when emulator starts behind Kodi?"
+msgstr ""
+
+
+msgctxt "#32012"
+msgid "Xterm Executable:"
+msgstr ""
+
+
+msgctxt "#32013"
+msgid "Error finding Xterm"
+msgstr ""
+
+
+msgctxt "#32014"
+msgid "Xterm is needed in order to launch FireFox."
+msgstr ""
+
+
+msgctxt "#32015"
+msgid "Please change its location on the Addon-Configure advanced section."
+msgstr ""
+

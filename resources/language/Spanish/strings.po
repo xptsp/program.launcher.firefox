@@ -1,0 +1,98 @@
+# Kodi Media Center language file
+# Addon Name: Kodi Launches FireFox
+# Addon id: script.kodi.launches.firefox
+# Addon Provider: iampeluca <diego.hernandez.perez.cr@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: script.kodi.launches.firefox\n"
+"Report-Msgid-Bugs-To: diego.hernandez.perez.cr@gmail.com\n"
+"POT-Creation-Date: 2017-01-12 23:15-0600\n"
+"PO-Revision-Date: 2017-01-23 09:11-0600\n"
+"Last-Translator: Diego Hernandez <diego.hernandez.perez.cr@gmail.com>\n"
+"Language-Team: Spanish <diego.hernandez.perez.cr@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);f\n"
+
+
+msgctxt "#32000"
+msgid "Error launching FireFox"
+msgstr "Error iniciando FireFox"
+
+
+msgctxt "#32001"
+msgid "The FireFox executable was not found."
+msgstr "El ejecutable de FireFox no se pudo encontrar."
+
+
+msgctxt "#32002"
+msgid "Please change its location on the Addon-Configure section based on your OS."
+msgstr "Por favor configure su ubicación en la sección de Configuración del Addon basado en su sistema operativo."
+
+
+msgctxt "#32003"
+msgid "File not found: "
+msgstr "Archivo no encontrado: "
+
+
+msgctxt "#32004"
+msgid "Is FireFox installed?"
+msgstr "¿Está FireFox instalado?"
+
+
+msgctxt "#32005"
+msgid "Please check that FireFox is installed and configured on this system before using this launcher, for instructions and downloads go to http://firefox.org/"
+msgstr "Por favor verifique que FireFox está instalado y configurado en su sistema antes de usar este inicializador, para instrucciones y descargas visite http://firefox.org/"
+
+
+msgctxt "#32006"
+msgid "General"
+msgstr "General"
+
+
+msgctxt "#32007"
+msgid "Windows Executable:"
+msgstr "Ejecutable en Windows:"
+
+
+msgctxt "#32008"
+msgid "Linux Executable:"
+msgstr "Ejecutable en Linux"
+
+
+msgctxt "#32009"
+msgid "Advanced"
+msgstr "Avanzado"
+
+
+msgctxt "#32010"
+msgid "Turn off Power Saving?"
+msgstr "¿Desactivar el modo de ahorro de energía?"
+
+
+msgctxt "#32011"
+msgid "Use workaround when emulator starts behind Kodi?"
+msgstr "¿Aplicar solución para emuladores que inician detrás de Kodi?"
+
+
+msgctxt "#32012"
+msgid "Xterm Executable:"
+msgstr "Ejecutable de Xterm"
+
+
+msgctxt "#32013"
+msgid "Error finding Xterm"
+msgstr "Error buscando Xterm"
+
+
+msgctxt "#32014"
+msgid "Xterm is needed in order to launch FireFox."
+msgstr "Xterm es requerido para iniciar FireFox"
+
+
+msgctxt "#32015"
+msgid "Please change its location on the Addon-Configure advanced section."
+msgstr "Por favor cambie su ubicación en la sección avanzada de la Configuración del Addon."
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.kodi.launches.firefox" name="FireFox" version="1.0" provider-name="XPtsp">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>linux windx</platform>
+		<summary lang="en">Kodi Launches FireFox</summary>
+		<summary lang="es">Kodi Inicia FireFox</summary>
+		<summary lang="fr">Raccourci FireFox pour Kodi</summary>
+		<description lang="en">Addon for Kodi to launch FireFox.[CR]Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online.</description>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<language>en</language>
+		<source>https://github.com/xptsp/Kodi-Launches-FireFox-Addon/</source>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>fanart.jpg</screenshot>
+		</assets>
+	</extension>
+</addon>
