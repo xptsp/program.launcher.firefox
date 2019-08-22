@@ -14,7 +14,7 @@
 		<description lang="en">Addon for Kodi to launch FireFox.[CR]Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online.</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<language>en</language>
-		<source>https://github.com/xptsp/Kodi-Launches-FireFox-Addon/</source>
+		<source>https://github.com/xptsp/script.kodi.launches.firefox/</source>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
