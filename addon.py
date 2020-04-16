@@ -10,7 +10,7 @@ import subprocess
 import json
 
 # Getting constants
-__addon__ = xbmcaddon.Addon('script.kodi.launches.firefox')
+__addon__ = xbmcaddon.Addon('program.launcher.firefox')
 __addonId__ = __addon__.getAddonInfo('id')
 __addonName__ = __addon__.getAddonInfo('name')
 __version__ = __addon__.getAddonInfo('version')
